@@ -15,6 +15,7 @@ React는 웹 프레임워크로, 자바스크립트 라이브러리의 하나로
 
 ## 설치
 npx create-react-app react-webpage
+https://react-basic-site01.netlify.app
 
 ## 디자인
 디자인은 웹상에 공유되어있는 디자인으로 작업하였다.
